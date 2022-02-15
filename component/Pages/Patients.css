@@ -1,0 +1,19 @@
+.div-patient{
+ height: 435px;
+ width: 20%;
+margin-top: 5%;
+margin-left: 1%;
+background-color: aqua;
+}
+.patient {
+    text-align: center;
+}
+.patient-details
+{
+  margin-top: 5%    ;
+  width: 100%;
+   margin-bottom:45em;
+  background-color: aqua;
+ margin-left:0.1%;
+ height: 600px;
+}
